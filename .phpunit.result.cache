@@ -1,1 +1,1 @@
-{"version":1,"defects":[],"times":{"ExampleTest::testAddition":0.003}}
+{"version":1,"defects":{"CpfValidatorTest::testValidCpf":8,"CpfValidatorTest::testInvalidCpf":8,"CpfValidatorTest::testCpfWithInvalidLength":8,"CpfValidatorTest::testCpfWithNonNumericCharacters":8,"CpfValidatorTest::testKnownInvalidCpf":8},"times":{"ExampleTest::testAddition":0.001,"CpfValidatorTest::testValidCpf":0.004,"CpfValidatorTest::testInvalidCpf":0,"CpfValidatorTest::testCpfWithInvalidLength":0,"CpfValidatorTest::testCpfWithNonNumericCharacters":0,"CpfValidatorTest::testKnownInvalidCpf":0}}
